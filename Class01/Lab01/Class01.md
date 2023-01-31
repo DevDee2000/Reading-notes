@@ -54,4 +54,8 @@ If you were making a grocery lists however, that wouldn't need to be ordered.
 # Links
 Creating links is another simple and effective task that can be done using Markdown inputs.
 
-For example here's a link to [my github]()
+For example here's a link to [my github](https://github.com/BvnkrollDee/Reading-notes)
+
+## Things I want to know more about
+- Just how creative we can get with Markdown's and html
+- how to add colors and different kinds of fonts for words
