@@ -25,7 +25,7 @@ This is the first line.
 
 And this is the second line.
 
-# Adding Emphasis
+# Adding Emphasis & Blockquotes
 ## Bold text
 > Making text **Bold** isn't too complicated
 >> neither is *Italicizing* words
