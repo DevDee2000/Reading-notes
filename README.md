@@ -1,5 +1,7 @@
-# Reading-notes
-Notes for code school
+# ***Table of Contents*** <hr>
+
+
+## **Notes for code school**
 
 ## [Class 01](Class01/Lab01/Class01.md).
 
