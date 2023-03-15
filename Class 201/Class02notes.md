@@ -39,3 +39,130 @@
 
 ![](/Screenshot%202023-02-21%20at%201.48.31%20PM.png)
 ![](/Screenshot%202023-02-21%20at%201.48.06%20PM.png)
+
+### <ins>HTML Questions</ins>
+
+
+Q. Why is it important to use semantic elements in our HTML?
+&nbsp;
+
+A.  Writing semantic HTML makes your code easier to understand, making the source code more readable for other developers.
+
+
+&nbsp;
+
+Q. How many levels of headings are there in HTML?
+
+&nbsp;
+
+- A. HTML defines six levels of headings.
+
+&nbsp;
+
+Q. What are some uses for the < sup> and < sub> elements?
+
+&nbsp;
+
+- A. to mark up typographical conventions with specific meanings
+
+&nbsp; 
+
+Q. When using the < abbr> element, what attribute must be added to provide the full expansion of the term?
+
+&nbsp;
+
+- A. The title attribute must be added to provide the full expansion of the term.
+
+&nbsp;
+
+### <ins> CSS Questions</ins>
+
+Q. What are ways we can apply CSS to our HTML?
+
+&nbsp;
+
+- A. Inline - by using the style attribute inside HTML elements
+Internal - by using a < style> element inside the < head> section.
+External - by using a < link> element to link to an external CSS file.
+
+&nbsp;
+
+Q. Why should we avoid using inline styles?
+
+&nbsp;
+
+- A. it does not support (or it has really poor support) for CSS features
+
+
+&nbsp;
+
+Q. Review the block of code below and answer the following questions:
+
+1. What is representing the selector?
+
+2. Which components are the CSS declarations?
+
+
+3. Which components are considered properties?
+
+- A. h2 is representing the selector
+
+  B. black and 5px are the components of the CSS declaration.
+
+  C. Color and padding are considered to be the properties.
+
+
+  ### <ins> JavaScript Questions</ins>
+
+  -  Q. What data type is a sequence of text enclosed in single quote marks?
+
+&nbsp;
+
+    A. It is a string
+
+&nbsp;
+
+    Q.  List 4 types of JavaScript operators.
+&nbsp;
+
+    A. Arithmetic Operators, Comparison Operators, Assignment Operators, Conditional Operators.
+
+&nbsp;
+
+    Q. Describe a real world Problem you could solve with a Function.
+
+&nbsp;
+
+    A. You have a subscription service and you want your customer to enter certain fields of information that you need to know. you can create a function that will make them have to fill in certain input areas.
+
+&nbsp;
+
+    Q. An if statement checks a __ and if it evaluates to ___, then the code block will execute.
+
+&nbsp;
+
+    A. condition, True
+
+&nbsp;
+
+    Q. What is the use of an else if?
+
+&nbsp;
+
+    A. to add more choices or outcomes to your if else statement.
+
+&nbsp;
+
+    Q. List 3 different types of comparison operators.
+
+&nbsp;
+
+    A. less than (<), greater than (>), equal to(==)
+
+&nbsp;
+
+    Q. What is the difference between the logical operator && and ||?
+
+&nbsp;
+
+    A. the && operator only returns true when both of its operands are true (and false in all other cases), while the || operator only returns false when both of its operands are false (and true in all other cases)
