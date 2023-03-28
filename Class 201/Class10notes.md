@@ -61,4 +61,20 @@ The line number where the error is, and the character number in that line where 
 
 &nbsp;
 
-    A. 
+    A. That the debugger will soon become your best friend when you begin coding and can't figure out what's going wrong in your code. The debugger will help you to quickly identify what and where the problem is.
+
+&nbsp;
+
+    Q. Define what a breakpoint is.
+
+&nbsp;
+
+    A. A breakpoint is a pause in the execution of your code that helps you to find what it is that's preventing your code from running properly.
+
+&nbsp;
+
+    Q. What is the call stack?
+
+&nbsp;
+
+    A. The Call stack section shows you what code was executed to get to the current line.
