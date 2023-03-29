@@ -79,3 +79,10 @@ It's easy to throw links up on your page. That's not enough.We need to make our 
 
 - Elements on a webpage lay out in normal flow if you haven't applied any CSS to change the way they behave. And, as we began to discover, you can change how elements behave either by adjusting their position in normal flow or by removing them from it altogether. Starting with a solid, well-structured document that's readable in normal flow is the best way to begin any webpage. It ensures that your content is readable even if the user's using a very limited browser or a device such as a screen reader that reads out the content of the page. In addition, since normal flow is designed to make a readable document, by starting in this way you're working with the document rather than struggling against it as you make changes to the layout.
 
+&nbsp;
+
+Q. To create a basic link, we wrap text or other content inside what element?
+
+&nbsp;
+
+A. 
