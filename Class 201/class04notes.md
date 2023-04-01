@@ -85,4 +85,123 @@ Q. To create a basic link, we wrap text or other content inside what element?
 
 &nbsp;
 
-A. 
+A. inside of an `<a>` tag with a href attribute
+
+&nbsp;
+
+Q. The href attribute contains what information?
+
+&nbsp;
+
+A. It contains the web address.
+
+&nbsp;
+
+Q. What are some ways we can ensure links on our pages are accessible to all readers?
+
+
+&nbsp;
+
+A. Don't repeat the URL as part of the link text — URLs look ugly, and sound even uglier when a screen reader reads them out letter by letter.
+
+- Don't say "link" or "links to" in the link text — it's just noise. Screen readers tell people there's a link. Visual users will also know there's a link, because links are generally styled in a different color and underlined (this convention generally shouldn't be broken, as users are used to it).
+
+
+- Keep your link text as short as possible — this is helpful because screen readers need to interpret the entire link text.
+
+
+- Minimize instances where multiple copies of the same text are linked to different places. This can cause problems for screen reader users, if there's a list of links out of context that are labeled "click here", "click here", "click here".
+
+&nbsp;
+
+Q. What is meant by “normal flow”?
+
+&nbsp;
+
+A. It's the way that webpage elements lay themselves out on the webpage.
+
+&nbsp;
+
+Q. What are a few differences between block-level and inline elements?
+
+
+&nbsp;
+
+A. Inline elements just adjusts the size of the content you can't set height or width with them. Block elements fill th available inline space of the parent element containing it.
+
+&nbsp;
+
+Q. ___ positioning is the default for every html element.
+
+
+&nbsp;
+
+A. Static Positioning
+
+&nbsp;
+
+Q. Name a few advantages to using absolute positioning on an element.
+
+&nbsp;
+
+A. They're easier to move around the webpage.
+
+&nbsp;
+
+Q. What is a key difference between fixed positioning and absolute positioning?
+
+
+&nbsp;
+
+A. absolute positioning fixes an element in place relative to its nearest positioned ancestor, while fixed positioning usually fixes an element in place relative to the visible portion of the viewport.
+
+&nbsp;
+
+Q. Describe the difference between a function declaration and a function invocation.
+
+
+&nbsp;
+
+A. invoking is just the function name followed by parentheses at the end of the function itself. Declaring is the beginning of the function and after the parentheses you have curly brackets at the end declaring what this function will do.
+
+&nbsp;
+
+Q. What is the difference between a parameter and an argument?
+
+&nbsp;
+
+A. there are no differences because they are both the same.
+
+&nbsp;
+
+Q. Pick 2 benefits to pair programming and reflect on how these benefits could help you on your coding journey.
+
+&nbsp;
+
+A. For myself I can definitely see how working on learning from fellow students and having greater efficiency could prove to be very helpful on my coding journey.These are both very critical skills that I wish to improve upon.
+
+
+
+
+
+
+
+
+
+&nbsp;
+
+
+
+
+
+
+
+
+
+
+&nbsp;
+
+
+
+
+
