@@ -41,3 +41,10 @@
 - Q. What are some examples of things that we could store in state?
 
 - A. checkboxes, inputs, forms, and anything else that will change as the user continues to use the application.
+
+
+
+
+## Things I want to know
+
+- 
