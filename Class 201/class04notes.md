@@ -178,7 +178,7 @@ Q. Pick 2 benefits to pair programming and reflect on how these benefits could h
 
 &nbsp;
 
-A. For myself I can definitely see how working on learning from fellow students and having greater efficiency could prove to be very helpful on my coding journey.These are both very critical skills that I wish to improve upon.
+A. For myself I can definitely see how working on learning from fellow students and having greater efficiency could prove to be very helpful on my coding journey.These are both very critical skills that I wish to improve upon.1` 
 
 
 
