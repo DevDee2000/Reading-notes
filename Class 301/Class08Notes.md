@@ -55,28 +55,28 @@ Clients interact with a service by exchanging representations of resources. Many
 - Q. What does it mean to have a ‘chatty’ web API? Is this a good or a bad thing?
 
 
-- A.
+- A. it means you have a web API that exposes a large number of small resources.
 
 
 - Q. What status code does a successful GET request return?
 
 
-- A.
+- A. Status code 200
 
 
 - Q. What status code does an unsuccessful GET request return?
 
 
-- A.
+- A. Status code 404
 
 
 - Q. What status code does a successful POST request return?
 
 
-- A.
+- A. Status code 201
 
 
 - Q. What status code does a successful DELETE request return?
 
 
-- A. 
+- A. Status code 204
